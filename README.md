@@ -1,4 +1,4 @@
-# CCNY Senior Design Project
+# DeepMinds
 Repo for senior design 1
 
 
@@ -10,3 +10,5 @@ Repo for senior design 1
 - [Tajwar Rahman](https://www.github.com/thetajwar2003) - Tech Smith
 
 
+## Introduction Slides
+DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a_4PFULTmjSpIxwWGtVhbDTeNvAeE5SiUZxqbOzDJ4o/)
