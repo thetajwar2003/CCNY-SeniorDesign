@@ -15,4 +15,4 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 
 ## References 
 - [Dive Into Deep Learning](https://d2l.ai/)
-- [Intro to ML] (https://openlearninglibrary.mit.edu/login?next=/dashboard)
+- [Intro to ML](https://openlearninglibrary.mit.edu/login?next=/dashboard)
