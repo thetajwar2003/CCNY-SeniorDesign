@@ -12,3 +12,7 @@ Repo for senior design 1
 
 ## Introduction Slides
 DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a_4PFULTmjSpIxwWGtVhbDTeNvAeE5SiUZxqbOzDJ4o/)
+
+## References 
+- [Dive Into Deep Learning](https://d2l.ai/)
+- [Intro to ML](https://openlearninglibrary.mit.edu/login?next=/dashboard)
