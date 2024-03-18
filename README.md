@@ -20,7 +20,7 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 ## Sources
 | Source | Summary |
 | ------------- | ------------- |
-| [Techniques for Recommender Systems](https://iopscience.iop.org/article/10.1088/1757-899X/1085/1/012011)  | Summary  |
+| [Techniques for Recommender Systems](https://iopscience.iop.org/article/10.1088/1757-899X/1085/1/012011)  | this paper addresses the different techniques in use when bulding Recommendation Systems(RS). It includes Collaborative and Content-Based filttereing as well as their advantages and dissadvantages. Addtitinally, the Collaborative filterting can be split into both Memory and Model base. For this project it is presumed that Collaborative filtering would be ideal due to its ubiquitousness, easier implementation and rating being received explicitly from the user as the app will be designed to do. A prefereance between memory and model has not been determined at the tim. |
 | [Recommendation sytems using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702439)  | Summary |
 | [Recommender Systems — A Complete Guide to Machine Learning Models](https://towardsdatascience.com/recommender-systems-a-complete-guide-to-machine-learning-models-96d3f94ea748) | Summary |
 
