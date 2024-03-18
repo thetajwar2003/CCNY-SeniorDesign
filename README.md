@@ -20,7 +20,7 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 ## Sources
 | Source | Summary |
 | ------------- | ------------- |
-| Content Cell  | Content Cell  |
+| [Techniques for Recommender Systems](https://iopscience.iop.org/article/10.1088/1757-899X/1085/1/012011)  | Content Cell  |
 | Content Cell  | Content Cell  |
 
 ## References 
