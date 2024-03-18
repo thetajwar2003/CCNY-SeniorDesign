@@ -18,6 +18,10 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
   - We can implement a few models such as a recommendation system, creating a recipe from images the user uploads, abd allowing the user to ask for a specific recipe (with dietary restrictions for example)
 
 ## Sources
+| Source | Summary |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## References 
 - [Dive Into Deep Learning](https://d2l.ai/)
