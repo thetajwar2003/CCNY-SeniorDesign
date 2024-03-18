@@ -20,8 +20,9 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 ## Sources
 | Source | Summary |
 | ------------- | ------------- |
-| [Techniques for Recommender Systems](https://iopscience.iop.org/article/10.1088/1757-899X/1085/1/012011)  | Content Cell  |
-| [Recommendation sytems using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702439)  | Content Cell  |
+| [Techniques for Recommender Systems](https://iopscience.iop.org/article/10.1088/1757-899X/1085/1/012011)  | Summary  |
+| [Recommendation sytems using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702439)  | Summary |
+| [Recommender Systems — A Complete Guide to Machine Learning Models](https://towardsdatascience.com/recommender-systems-a-complete-guide-to-machine-learning-models-96d3f94ea748) | Summary |
 
 ## References 
 - [Dive Into Deep Learning](https://d2l.ai/)
