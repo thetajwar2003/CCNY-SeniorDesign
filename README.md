@@ -21,7 +21,7 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 | Source | Summary |
 | ------------- | ------------- |
 | [Techniques for Recommender Systems](https://iopscience.iop.org/article/10.1088/1757-899X/1085/1/012011)  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [Recommendation sytems using ML](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3702439)  | Content Cell  |
 
 ## References 
 - [Dive Into Deep Learning](https://d2l.ai/)
