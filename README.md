@@ -28,6 +28,8 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 | [CNN for Food Detection](https://www.researchgate.net/profile/Kiyoharu-Aizawa/publication/266357771_Food_Detection_and_Recognition_Using_Convolutional_Neural_Network/links/542d52930cf29bbc126d2897/Food-Detection-and-Recognition-Using-Convolutional-Neural-Network.pdf) | A paper that oultines the use of CNN for food detection and identifies it a one of the best methods to use when wanting to identify food in images. It determines CNN having an accuray of 93%, which is several percent points higher than the next ;eading method. |
 | [Paper on Recipe Generation From Images](https://arxiv.org/pdf/2304.02016.pdf) | This paper compares these monolithic approaches to a lightweight and specialized method based on employing image models to label objects, then serially submitting this resulting object list to a large language model (LLM). |
 | [Orignal Recipe Project Done By MIT CSAIL](https://news.mit.edu/2017/artificial-intelligence-suggests-recipes-based-on-food-photos-0720#:~:text=Pic2Recipe%2C%20an%20artificial%20intelligence%20system,a%20similar%20recipe%20to%20it.&text=Dorfman%2FMIT%20CSAIL-,Caption%3A,some%20task%20by%20analyzing%20examples.) | Trained an artificial intelligence system called Pic2Recipe to look at a photo of food and be able to predict the ingredients and suggest similar recipes. |
+| [Food Image Classification with Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8550005) | |
+| [Food Classification and Discussions on Different Food Databases](https://ieeexplore.ieee.org/abstract/document/9524498) | |
 
 ## References 
 - [Dive Into Deep Learning](https://d2l.ai/)
