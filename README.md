@@ -12,7 +12,7 @@ Repo for senior design 1
 ## Introduction Slides
 DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a_4PFULTmjSpIxwWGtVhbDTeNvAeE5SiUZxqbOzDJ4o/)
 
-## Project Ideas
+## Project Description
 - Recipe App
   - The ML aspect of the project will be implemented on top of a recepie app. The recepie app will work much in the same way other recepie app works. The full deatils of it can be found [here](https://github.com/thetajwar2003/khuda-lagche)
 
