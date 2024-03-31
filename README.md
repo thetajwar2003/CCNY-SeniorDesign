@@ -52,12 +52,15 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 
 ## Datasets
 
+Food Images Recognition
 - [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)
 - [ISIA Food 500](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html)
+- [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022)
+
+Ingredients and Nutrition Info
 - [Food Ingredient List](https://www.kaggle.com/datasets/datafiniti/food-ingredient-lists)
 - [Epicurious - Recipes with Rating and Nutrition](https://www.kaggle.com/datasets/hugodarwood/epirecipes)
 - [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
-- [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022)
 - [Food Ingredients and Allergens](https://www.kaggle.com/datasets/uom190346a/food-ingredients-and-allergens)
 
 
