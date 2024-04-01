@@ -56,6 +56,7 @@ Food Images Recognition
 - [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)
 - [ISIA Food 500](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html)
 - [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022)
+- [FoodX-251 Dataset](https://paperswithcode.com/dataset/foodx-251)
 
 Ingredients and Nutrition Info
 - [Food Ingredient List](https://www.kaggle.com/datasets/datafiniti/food-ingredient-lists)
