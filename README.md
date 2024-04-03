@@ -53,8 +53,10 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 ## Datasets
 
 Food Images Recognition
-- [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101)
-- [ISIA Food 500](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html)
+| Source | Image Number | Category | Image Size | Date Published |
+| ------- | :-------: | :-------: | :-------: | :-------: |
+| [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101) | 101,000 | 101 | 512 x 512 | 2014 |
+| [ISIA Food 500](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html) |  399,726 | 500 | 224 x 224 | 2020 |
 - [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022)
 - [FoodX-251 Dataset](https://paperswithcode.com/dataset/foodx-251)
 
