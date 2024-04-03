@@ -52,7 +52,7 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 
 ## Datasets
 
-Food Images Recognition
+#### Food Images Recognition
 | Source | Image Number | Category | Image Size | Date Published |
 | ------- | :-------: | :-------: | :-------: | :-------: |
 | [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101) | 101,000 | 101 | 512 x 512 | 2014 |
@@ -60,10 +60,12 @@ Food Images Recognition
 - [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022)
 - [FoodX-251 Dataset](https://paperswithcode.com/dataset/foodx-251)
 
-Ingredients and Nutrition Info
+#### Ingredients and Nutrition Info
+| Source | Recepies | Ratings | Unique Ingredients | Nutritional Info Available | Cooking Techniques | Date Published |
+| ------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions) | 180K | 700K | 13K | Yes | 58 | 2019 |
+| [Epicurious - Recipes with Rating and Nutrition](https://www.kaggle.com/datasets/hugodarwood/epirecipes) | 20K | 177K | N/A | Yes | N/A | 2017 |
 - [Food Ingredient List](https://www.kaggle.com/datasets/datafiniti/food-ingredient-lists)
-- [Epicurious - Recipes with Rating and Nutrition](https://www.kaggle.com/datasets/hugodarwood/epirecipes)
-- [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions)
 - [Food Ingredients and Allergens](https://www.kaggle.com/datasets/uom190346a/food-ingredients-and-allergens)
 - [Recipe Dataset (over 2M)](https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m/data)
 
