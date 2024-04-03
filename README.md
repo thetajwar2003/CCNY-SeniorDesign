@@ -55,17 +55,17 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 #### Food Images Recognition
 | Source | Image Number | Category | Image Size | Date Published |
 | ------- | :-------: | :-------: | :-------: | :-------: |
-| [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101) | 101K | 101 | 512 x 512 | 2014 |
 | [ISIA Food 500](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html) |  399K+ | 500 | 224 x 224 | 2020 |
+| [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101) | 101K | 101 | 512 x 512 | 2014 |
 | [FoodX-251 Dataset](https://paperswithcode.com/dataset/foodx-251) | 148K | 251 | **<em>Will Update</em> | 2019 |
 | [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022) | 40K+ | **<em>Will Update</em> | **<em>Will Update</em>| 2022 |
 
 #### Recepies
 | Source | Recepies | Ratings | Unique Ingredients | Nutritional Info Available | Cooking Techniques | Date Published |
 | ------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
+| [Recipe Dataset](https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m/data) | 1.3M+ | N/A | 2.2M+ | No | **<em>Will Update</em> | 2023 |
 | [Food.com](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions) | 180K | 700K | 13K | Yes | 58 | 2019 |
-| [Epicurious](https://www.kaggle.com/datasets/hugodarwood/epirecipes) | 20K | 177K | N/A | Yes | N/A | 2017 |
-| [Recipe Dataset (over 2M)](https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m/data) | 1.3M+ | N/A | 2.2M+ | N/A | **<em>Will Update</em> | 2023 |
+| [Epicurious](https://www.kaggle.com/datasets/hugodarwood/epirecipes) | 20K | 177K | N/A | Yes | **<em>Will Update</em> | 2017 |
 
 #### Ingredients
 | Source | Unique Ingredients | Nutritional Info Available  | Date Published |
