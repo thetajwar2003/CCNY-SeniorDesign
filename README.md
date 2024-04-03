@@ -81,3 +81,5 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 
 - [Dive Into Deep Learning](https://d2l.ai/)
 - [Intro to ML](https://openlearninglibrary.mit.edu/login?next=/dashboard)
+- [Google Developer Classes](https://developers.google.com/machine-learning)
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
