@@ -63,8 +63,8 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 #### Ingredients and Nutrition Info
 | Source | Recepies | Ratings | Unique Ingredients | Nutritional Info Available | Cooking Techniques | Date Published |
 | ------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
-| [Food.com Recipes and Interactions](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions) | 180K | 700K | 13K | Yes | 58 | 2019 |
-| [Epicurious - Recipes with Rating and Nutrition](https://www.kaggle.com/datasets/hugodarwood/epirecipes) | 20K | 177K | N/A | Yes | N/A | 2017 |
+| [Food.com](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions) | 180K | 700K | 13K | Yes | 58 | 2019 |
+| [Epicurious](https://www.kaggle.com/datasets/hugodarwood/epirecipes) | 20K | 177K | N/A | Yes | N/A | 2017 |
 - [Food Ingredient List](https://www.kaggle.com/datasets/datafiniti/food-ingredient-lists)
 - [Food Ingredients and Allergens](https://www.kaggle.com/datasets/uom190346a/food-ingredients-and-allergens)
 - [Recipe Dataset (over 2M)](https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m/data)
