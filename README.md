@@ -55,19 +55,27 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 #### Food Images Recognition
 | Source | Image Number | Category | Image Size | Date Published |
 | ------- | :-------: | :-------: | :-------: | :-------: |
-| [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101) | 101,000 | 101 | 512 x 512 | 2014 |
-| [ISIA Food 500](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html) |  399,726 | 500 | 224 x 224 | 2020 |
-- [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022)
-- [FoodX-251 Dataset](https://paperswithcode.com/dataset/foodx-251)
+| [Food-101 Dataset](https://www.kaggle.com/datasets/dansbecker/food-101) | 101K | 101 | 512 x 512 | 2014 |
+| [ISIA Food 500](http://123.57.42.89/FoodComputing-Dataset/ISIA-Food500.html) |  399K+ | 500 | 224 x 224 | 2020 |
+| [FoodX-251 Dataset](https://paperswithcode.com/dataset/foodx-251) | 148K | 251 | **<em>Will Update</em> | 2019 |
+| [Food Recognition](https://www.kaggle.com/datasets/sainikhileshreddy/food-recognition-2022) | 40K+ | **<em>Will Update</em> | **<em>Will Update</em>| 2022 |
 
-#### Ingredients and Nutrition Info
+#### Recepies
 | Source | Recepies | Ratings | Unique Ingredients | Nutritional Info Available | Cooking Techniques | Date Published |
 | ------- | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | [Food.com](https://www.kaggle.com/datasets/shuyangli94/food-com-recipes-and-user-interactions) | 180K | 700K | 13K | Yes | 58 | 2019 |
 | [Epicurious](https://www.kaggle.com/datasets/hugodarwood/epirecipes) | 20K | 177K | N/A | Yes | N/A | 2017 |
-- [Food Ingredient List](https://www.kaggle.com/datasets/datafiniti/food-ingredient-lists)
-- [Food Ingredients and Allergens](https://www.kaggle.com/datasets/uom190346a/food-ingredients-and-allergens)
-- [Recipe Dataset (over 2M)](https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m/data)
+| [Recipe Dataset (over 2M)](https://www.kaggle.com/datasets/wilmerarltstrmberg/recipe-dataset-over-2m/data) | 1.3M+ | N/A | 2.2M+ | N/A | **<em>Will Update</em> | 2023 |
+
+#### Ingredients
+| Source | Unique Ingredients | Nutritional Info Available  | Date Published |
+| ------- | :-------: | :-------:  | :-------: |
+| [Food Ingredient List](https://www.kaggle.com/datasets/datafiniti/food-ingredient-lists)  | 10K | Yes  | 2017 |
+| [Food Ingredients and Allergens](https://www.kaggle.com/datasets/uom190346a/food-ingredients-and-allergens)  | 400 | Yes | 2023 |
+
+
+- *Datasets in both tables are currently sorted in terms of possible use, subject to change
+- **<em>Will Update</em> means the table will be update when the information is found
 
 ## References
 
