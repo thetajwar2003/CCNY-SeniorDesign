@@ -78,7 +78,7 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 
 ## Resources 
 [Colaborative Filtering Demo](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
-[Recommendation Sytem Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
+  <br> [Recommendation Sytem Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
 
 
 ## References
