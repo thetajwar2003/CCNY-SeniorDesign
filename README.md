@@ -77,8 +77,8 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 <br>**<em>Will Update</em> means the table will be updated when the information is found
 
 ## Resources 
-[Colaborative Filtering Demo](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
-  <br> [Recommendation Sytem Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/)
+[Colaborative Filtering Demo](https://realpython.com/build-recommendation-engine-collaborative-filtering/) - <em>Desctiption will go here after a through review</em>
+  <br> [Recommendation Sytem Guide](https://www.analyticsvidhya.com/blog/2018/06/comprehensive-guide-recommendation-engine-python/) - <em>Desctiption will go here after a through review</em>
 
 
 ## References
