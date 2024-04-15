@@ -76,6 +76,10 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 
 - *Datasets in tables are currently sorted in terms of possible use, subject to change
 - **<em>Will Update</em> means the table will be updated when the information is found
+## Resources 
+[Colaborative Filtering Demo](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
+
+
 
 ## References
 
