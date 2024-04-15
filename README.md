@@ -73,8 +73,8 @@ DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a
 | [Food Ingredients and Allergens](https://www.kaggle.com/datasets/uom190346a/food-ingredients-and-allergens)  | 400 | Yes | 2023 |
 
 
-- *Datasets in tables are currently sorted in terms of possible use, subject to change
-- **<em>Will Update</em> means the table will be updated when the information is found
+*Datasets in tables are currently sorted in terms of possible use, subject to change
+<br>**<em>Will Update</em> means the table will be updated when the information is found
 
 ## Resources 
 [Colaborative Filtering Demo](https://realpython.com/build-recommendation-engine-collaborative-filtering/)
