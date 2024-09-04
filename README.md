@@ -10,7 +10,7 @@ Repo for senior design 1
 
 ## Timeline for Project (Subject to Change)
 
-[Scheduke](https://docs.google.com/spreadsheets/d/1_CTNEVaTbUeiSTDD4i7zU3mf360-n2xHzTq5874sA4o/edit?gid=2016187939#gid=2016187939)
+[Schedule](https://docs.google.com/spreadsheets/d/1_CTNEVaTbUeiSTDD4i7zU3mf360-n2xHzTq5874sA4o/edit?gid=2016187939#gid=2016187939)
 
 ## Introduction Slides
 
