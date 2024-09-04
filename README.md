@@ -8,6 +8,10 @@ Repo for senior design 1
 - [Matthew Nieves](https://www.github.com/Nieves350) - System Savvy
 - [Tajwar Rahman](https://www.github.com/thetajwar2003) - Tech Smith
 
+## Timeline for Project (Subject to Change)
+
+[Scheduke](https://docs.google.com/spreadsheets/d/1_CTNEVaTbUeiSTDD4i7zU3mf360-n2xHzTq5874sA4o/edit?gid=2016187939#gid=2016187939)
+
 ## Introduction Slides
 
 DeepMinds member introduction [slides](https://docs.google.com/presentation/d/1a_4PFULTmjSpIxwWGtVhbDTeNvAeE5SiUZxqbOzDJ4o/)
