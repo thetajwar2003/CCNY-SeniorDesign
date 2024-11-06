@@ -2,12 +2,6 @@
 
 Repo for senior design 1
 
-## Members
-
-- [Matthew Munoz](https://www.github.com/MattMunoz) - Team Leader
-- [Matthew Nieves](https://www.github.com/Nieves350) - System Savvy
-- [Tajwar Rahman](https://www.github.com/thetajwar2003) - Tech Smith
-
 ## Timeline for Project (Subject to Change)
 
 [Schedule](https://docs.google.com/spreadsheets/d/1_CTNEVaTbUeiSTDD4i7zU3mf360-n2xHzTq5874sA4o/edit?gid=2016187939#gid=2016187939)
