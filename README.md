@@ -23,3 +23,7 @@ Repo for senior design 2
   1. The main aspect of the project will be a recommendation system that creates personalized recommendations for each user of the app. The users will obtain this personalization based on past preferences, whether it's a like or dislike, compared to what other similar users of the app prefer. For example, if two users have similar tastes in recipes and are more closely related we can assume that they will like a similar recipe in the future, so if one of them likes a recipe the other one has not tried we can recommend said recipe to the other user.
 
   2. If time permits, the project will also attempt to implement a function within the app that will allow the user to upload a picture of a dish that they tried and would like to know how to make. The app will then identify the dish in the image and provide a recipe to make that dish. Specifically, if a user uploads a picture of a margarita pizza, they can upload a picture of the pizza they like and the app will provide a recipe for the dish.
+
+## Midterm Slides
+
+[Midterm Presentation](https://docs.google.com/presentation/d/1hpQh4t4M3lrK75eTXjqawNI2oM0_PV_bo9ysY-2bQNY/edit#slide=id.g30b8e1912aa_2_0)
