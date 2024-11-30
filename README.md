@@ -28,7 +28,7 @@ Repo for senior design 2
 
 ### Septemeber
 
-- [Data analysis](https://docs.google.com/presentation/d/1evxd-9ThpiSafHGqG9SWblSGBWH8p6MRBY8j7teP6Z8/edit#slide=id.g301eb7cf9ae_0_342) with a thorough understanding of the various datasets needed for image recognition and recommendation systems. 
+- [Data analysis](https://docs.google.com/presentation/d/1evxd-9ThpiSafHGqG9SWblSGBWH8p6MRBY8j7teP6Z8/edit#slide=id.p)) with a thorough understanding of the various datasets needed for image recognition and recommendation systems. 
   
 ### October
 
