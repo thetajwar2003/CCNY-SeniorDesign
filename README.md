@@ -28,12 +28,15 @@ Repo for senior design 2
 
 ### Septemeber
 
-- [Data analysis](https://docs.google.com/presentation/d/1evxd-9ThpiSafHGqG9SWblSGBWH8p6MRBY8j7teP6Z8/edit#slide=id.p) with a thorough understanding of the various datasets needed for image recognition and recommendation systems. 
+- [Data analysis](https://docs.google.com/presentation/d/1evxd-9ThpiSafHGqG9SWblSGBWH8p6MRBY8j7teP6Z8/edit#slide=id.p) with a thorough understanding of the various datasets needed for image recognition and recommendation systems.
+- Implemented preprocessing techniques like normalization, resizing images, and removing incorrect or mislabeled entries to ensure data quality.
   
 ### October
 
-- Selection of the models to be used with a deep neural network for image recognition and cosine similarity for the recommendation system. A more thorough update is found [here](https://docs.google.com/presentation/d/1j-zSWSOCYNckjP9O2TLLutKJe3B4m4ZwDKZLs8ZG9i8/edit#slide=id.p) along with the [midterm update](https://docs.google.com/presentation/d/1hpQh4t4M3lrK75eTXjqawNI2oM0_PV_bo9ysY-2bQNY/edit#slide=id.g30b8e1912aa_2_0)
+- Selection and creation of the models to be used with a deep neural network for image recognition and cosine similarity for the recommendation system.
+- Performed iterative testing on both models to ensure baseline performance, identifying areas for improvement and exploring methods to enhance performance. A more thorough update is found [here](https://docs.google.com/presentation/d/1j-zSWSOCYNckjP9O2TLLutKJe3B4m4ZwDKZLs8ZG9i8/edit#slide=id.p) along with the [midterm update](https://docs.google.com/presentation/d/1hpQh4t4M3lrK75eTXjqawNI2oM0_PV_bo9ysY-2bQNY/edit#slide=id.g30b8e1912aa_2_0).
 
 ### November
 
-- Used primarily for implementation and testing with a working image recognition and recommendation model. In addition, [API documentation](https://github.com/thetajwar2003/khuda-lagche/tree/master/backend) was created.
+- Used primarily for implementation and testing with a working image recognition and recommendation model.
+- Analysis of performance metrics such as precision, recall, and F1-score by food class, identifying factors contributing to class performance, and exploring correlations between similar classes that may have led to misclassifications. In addition, [API documentation](https://github.com/thetajwar2003/khuda-lagche/tree/master/backend) was created.
