@@ -1,6 +1,6 @@
 # DeepMinds
 
-Repo for senior design II
+Repository for senior design II
 
 ## Members
 
