@@ -1,6 +1,6 @@
 # DeepMinds
 
-Repo for senior design 2
+Repo for senior design II, a READ.me of senior design I can be found in the files.
 
 ## Members
 
