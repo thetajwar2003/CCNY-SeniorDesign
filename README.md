@@ -47,4 +47,4 @@ A detailed video of the application can be found [here](https://drive.google.com
   
 ## Report
 
-For a deeper dive into the dataset, methodologies, results, and implementation please take a look at the [report]()
+For a deeper dive into the dataset, methodologies, results, and implementation, please take a look at the [report](https://github.com/thetajwar2003/CCNY-SeniorDesign/blob/master/DeepMinds%20Senior%20Final%20II%20Report.pdf)
