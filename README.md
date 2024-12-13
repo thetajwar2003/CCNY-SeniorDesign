@@ -9,7 +9,7 @@ Repo for senior design 2
 - [Tajwar Rahman](https://www.github.com/thetajwar2003) - Tech Smith
 
 ## Demo
-https://drive.google.com/file/d/1p81cDjszGQDgT5P8ahCzOeH5bOGJ5Pin/view?usp=sharing
+A detailed video of the application can be found [here](https://drive.google.com/file/d/1p81cDjszGQDgT5P8ahCzOeH5bOGJ5Pin/view?usp=sharing)
 
 ## Timeline for Project (Subject to Change)
 
@@ -43,3 +43,8 @@ https://drive.google.com/file/d/1p81cDjszGQDgT5P8ahCzOeH5bOGJ5Pin/view?usp=shari
 
 - Used primarily for implementation and testing with a working image recognition and recommendation model.
 - Analysis of performance metrics such as precision, recall, and F1-score by food class, identifying factors contributing to class performance, and exploring correlations between similar classes that may have led to misclassifications. In addition, [API documentation](https://github.com/thetajwar2003/khuda-lagche/tree/master/backend) was created.
+
+  
+## Report
+
+For a deeper dive into the dataset, methodologies, results, and implementation please take a look at the [report]()
