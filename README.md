@@ -1,6 +1,6 @@
 # DeepMinds
 
-Repository for senior design II
+Repository for Senior Design II
 
 ## Members
 
@@ -43,8 +43,13 @@ A detailed video of the application can be found [here](https://drive.google.com
 
 - Used primarily for implementation and testing with a working image recognition and recommendation model.
 - Analysis of performance metrics such as precision, recall, and F1-score by food class, identifying factors contributing to class performance, and exploring correlations between similar classes that may have led to misclassifications. In addition, [API documentation](https://github.com/thetajwar2003/khuda-lagche/tree/master/backend) was created.
-
   
 ## Report
 
 For a deeper dive into the dataset, methodologies, results, and implementation, please take a look at the [report](https://github.com/thetajwar2003/CCNY-SeniorDesign/blob/master/DeepMinds%20Senior%20Final%20II%20Report.pdf)
+
+---
+
+#### First Semester Repository
+
+[Repository for Senior Design I](https://github.com/thetajwar2003/CCNY-SeniorDesign/blob/master/Spring_2024.md)
