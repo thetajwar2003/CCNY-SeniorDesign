@@ -50,6 +50,4 @@ For a deeper dive into the dataset, methodologies, results, and implementation, 
 
 ---
 
-#### First Semester Repository
-
 [Repository for Senior Design I](https://github.com/thetajwar2003/CCNY-SeniorDesign/blob/master/Spring_2024.md)
